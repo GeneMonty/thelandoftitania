@@ -16,7 +16,7 @@ function parseMarkdown(markdownContent) {
     outputContainer.innerHTML = parsedHTML;
 
     // Apply styles to the parsed elements
-    // applyStyles(outputContainer);
+    applyStyles(outputContainer);
 
     // Add line breaks for empty lines
     addLineBreaks(outputContainer);
@@ -30,7 +30,7 @@ function parseMarkdown(markdownContent) {
     appendEntryNumerals(outputContainer);
 
     // Apply styles to combined bold and italic text
-    applyCombinedStyles(outputContainer);
+    // applyCombinedStyles(outputContainer);
 }
 
 function appendEntryNumbers(container) {
@@ -150,25 +150,25 @@ function applyStyles(container) {
     });
 }
 
-function applyCombinedStyles(container) {
-    const textNodes = getTextNodes(container);
+// function applyCombinedStyles(container) {
+//     const textNodes = getTextNodes(container);
 
-    textNodes.forEach(textNode => {
-        const textContent = textNode.nodeValue;
+//     textNodes.forEach(textNode => {
+//         const textContent = textNode.nodeValue;
 
-        // Use a regular expression to find combined bold and italic text
-        const matches = textContent.match(/(\*\*\*|___)(.*?)\1/g);
+//         // Use a regular expression to find combined bold and italic text
+//         const matches = textContent.match(/(\*\*\*|___)(.*?)\1/g);
 
-        if (matches) {
-            matches.forEach(match => {
-                // Wrap the combined bold and italic text with a span and apply styles
-                const span = document.createElement('span');
-                span.style.fontStyle = 'italic';
-                span.style.fontWeight = 'bold';
-                span.textContent = match;
+//         if (matches) {
+//             matches.forEach(match => {
+//                 // Wrap the combined bold and italic text with a span and apply styles
+//                 const span = document.createElement('span');
+//                 span.style.fontWeight = 'bold';
+//                 span.style.fontStyle = 'italic';
+//                 span.textContent = match;
 
-                textNode.parentNode.replaceChild(span, textNode.splitText(textContent.indexOf(match)));
-            });
-        }
-    });
-}
+//                 textNode.parentNode.replaceChild(span, textNode.splitText(textContent.indexOf(match)));
+//             });
+//         }
+//     });
+// }
