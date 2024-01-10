@@ -40,6 +40,12 @@ h3,h4 {
     padding:0;
     color: var(--ink);
 }
+h5 {
+    margin-top: 0px;
+    margin-bottom: -35px;
+    padding:0;
+    color: var(--ink);
+}
 
 
 body {
@@ -65,7 +71,7 @@ body {
     font-size:xx-large;
     font-weight: 100;
     line-height: 1.2;
-    color: #ffffff00;
+    /* color: #ffffff00; */
     
     background-color: var(--paperDarker);
 
@@ -78,6 +84,19 @@ header {
     padding: 1em 0;
 }
 
+p{
+    color:var(--ink);
+    font-size: 70%;
+    white-space:pre-line;
+    
+}
+b{
+    color:var(--inkRed);
+}
+
+i{
+    color:var(--inkRed);
+}
 h1 {
     color: var(--paper);
 }
@@ -91,24 +110,13 @@ h4 {
     font-size: xx-large;
 }
 
+
+
 h6{
     margin:0;
     padding:0;
     color:var(--inkRed);
     font-size: 95%;
-}
-p{
-    color:var(--ink);
-    font-size: 70%;
-    white-space:pre-line;
-    
-}
-b{
-    color:var(--ink);
-}
-
-i{
-    color:var(--inkRed)
 }
 
 nav {
@@ -225,3 +233,17 @@ input, textarea {
 
 
 
+/* images */
+
+.frame-image {
+    /* border:3px solid var(--ink); */
+    padding:0.5em;
+    width:95% ;
+    float:inline-end;
+
+}
+.frame-image img { 
+    display: block; 
+    margin-bottom: 10px; 
+    width: 100%; 
+  }
