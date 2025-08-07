@@ -31,6 +31,8 @@ function parseMarkdown(markdownContent) {
 
     // Apply styles to combined bold and italic text
     // applyCombinedStyles(outputContainer);
+    // applyStencilFilter(outputContainer);
+    applyGreyscaleFilter(outputContainer);
 }
 
 function appendEntryNumbers(container) {
@@ -172,3 +174,47 @@ function applyStyles(container) {
 //         }
 //     });
 // }
+
+function applyGreyscaleFilter(container) {
+    const images = container.querySelectorAll('img');
+    images.forEach(img => {
+        img.style.filter = 'grayscale(100%)';
+    });
+}
+
+
+function applyGreyscaleCanvas(container) {
+    const images = container.querySelectorAll('img');
+
+    images.forEach(img => {
+        if (!img.complete) {
+            img.onload = () => convertToGrayscale(img);
+        } else {
+            convertToGrayscale(img);
+        }
+    });
+}
+
+function convertToGrayscale(img) {
+    const canvas = document.createElement('canvas');
+    const ctx = canvas.getContext('2d');
+    const width = img.naturalWidth;
+    const height = img.naturalHeight;
+
+    canvas.width = width;
+    canvas.height = height;
+    ctx.drawImage(img, 0, 0);
+
+    const imageData = ctx.getImageData(0, 0, width, height);
+    const data = imageData.data;
+
+    for (let i = 0; i < data.length; i += 4) {
+        const avg = 0.3 * data[i] + 0.59 * data[i+1] + 0.11 * data[i+2];
+        data[i] = data[i+1] = data[i+2] = avg;
+    }
+
+    ctx.putImageData(imageData, 0, 0);
+    img.replaceWith(canvas);
+}
+
+

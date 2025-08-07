@@ -47,6 +47,16 @@ h5 {
     color: var(--ink);
 }
 
+img {
+    filter: grayscale(50%) contrast(700%) brightness(80%) saturate(120%);
+}
+
+canvas {
+    background: url('images/texture.jpg') center/cover no-repeat;
+    mix-blend-mode: multiply;
+}
+
+
 
 body {
     font-family: 'MedievalSharp', cursive;
@@ -148,8 +158,17 @@ section {
     padding-bottom: 1.5em;
     /* background-color: #bda67a; */
     background-image:linear-gradient( to right,var(--paperDarker)1%,var(--paper)10%,var(--paper)60%,var(--paperDarker)160%) ;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    transform: none;
+    /* opacity: 0.9; */
+    /* background-image: image('images/texture.jpg'); */
+    /* background-image: url('images/texture.jpg'); */
+    /* background-size: cover; */
+    /* background-position: center; */
+
 }
 
 
