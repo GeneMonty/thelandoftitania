@@ -107,31 +107,31 @@ The drydock's completion aids the boat builder. Returning to my lands, <i>**I po
 ###### Anno 224 A.G
 
 **Entry**
-It has been many years since ive traveled to the castle of titania after the event of the vanishing of the lords. I am but a mere mortal, and had spent most of my days here in my mountanous residence studing the scholarly ways in hopes to discover a way to rescue them from what appears to be a terrible calaminity..
+Many a year hath pass’d since mine eyes last beheld the Castle of Titania, since the grievous hour known as the <i>*Vanishing of the Lords*</i>. I am but a humble mortal, bound by flesh and fleeting time, and have spent these years in mine mountainous keep, studying the *scholarly arts* in hope of discerning some arcane method by which the noble lords might yet be rescued from what seemeth a dread calamity.
 
 **Entry**
-Life has turned very difficult, living in a frozen mountain has its complications and challanges, i have finally built a similar edifice as the hydriponics i once built for the castle of titania. It has kept me alive for many years, in this harsh enviroment. It takes me a few days worth of water travel to reach my seaside farm importing goods when necesary.
+Life upon this frozen mount beareth many hardships. The cold bites deep, and provisions scarce sustain. Yet through perseverance, I have raised an edifice not unlike the hydroponic hall once gifted to the castle of Titania. It hath sustained me through many a storm. On occasion, I voyage by water to mine seaside farm, wherefrom I import goods to ensure my survival.
+**Entry**
+Oft do I wonder what fate befell the halls of Titania. Dost the castle yet stand? Have the lords return’d in secret? I must make ready a journey to those lands, to bear witness with mine own eyes.
 
 **Entry**
-I seldom wonder of the state of the castle of titania, i must travel sometime soon to check on the affairs and see if there is any evidence if the lords of the castle ever returned.
+As I prepare for voyage, a troubling sight greets me from mine balcony; *smoke and fire* in the far distance. Even from here, that great tower, sentinel of Titania, is visible beneath the heavens. Could it be? Have the lords return’d at last; or hath some new peril taken root?
 
 **Entry**
-As i prepare to travel to the state of titania, i can see what appears fire and smoke on this clear day, that impoment tower can be seen all the way in the distance from the valcony of my mountan castle, i wonder if the lords have returned.
+By water I draw near to the *Port of Titania*. Ash and ruin greet me. A vessel lies smoldering; burnt and broken, adrift and swallowed by flame. To starboard, a refuge doth sit; familiar, yet shrouded in shadow. Methinks it may be the same wraithlike figure I glimpsed in mine last venture. I shall approach with caution, for danger oft wears friendly guise.
 
 **Entry**
-Im arriving by water to the port of titania, and i see the fire, it appears to be an attack, the remnants of a ship on fire, and to my right a refuge of some sort, i think is the shadowy figure i saw the last time i was here. I must approach with caution.
+From afar, the castle itself seemeth untouched. Yet nature reclaims what man forsakes; *overgrowth* entwines the earth, and the lights that once kept darkness at bay flicker faintly, their magic waning. I shall rekindle them, lest nightfall bring forth the beasts.
+
 
 **Entry**
-The castle from the distance appears to be safe, overgrowth is taking over the lands, the lights that remain still protect the grounds from the monsters of the night, i shall light the up again for my safety.
+Signs of presence I have found. The *storehouses* lay barren, their bounty taken. Yet mine message, left long ago for the returning lords, remaineth unopened and undisturbed. Thus I doubt ‘twas any of the old lords who returned. Another hand hath plundered these grounds.
 
 **Entry**
-It appears someone was here, the castle storage appears to have been ransaced of most of its goods, i dont believe this to be the actions of any of the lords, as i left a messege for them and it appears to still be there unopened.
+Grief heavies mine heart. I fear the noble lords—so bold in their questing—hath perished within the *Nether* or wandered beyond the veil in *The End*. Those cursed portals are tombs cloaked as gateways. Yet I shall return once more when the season turns, for I cannot abandon hope. But for now, I must take my leave, for mine own land calleth for care.
 
 **Entry**
-It pains me to think that the lords in their great adventure have been lost to the nether or the end, those wretched portals are quite dangerous...i shall return to the castle of titania on the next season. Its time for me to depart this land as mine awaits tending.
-
-**Entry**
-I have now returned to my home in the mountains, and shall continue tending to my lands, in preparation for the worst i shall continue with my scholarly studies, in a final attemp to discover a way to rescue the lords of titania.
+I am return’d to mine mountain home, where silence reigns and wind howls through stone. I shall tend to my fields and continue my *studies in the arcane*, holding fast to the faint hope that in my scrolls, or in some forgotten rune, there might be salvation for the *Lords of Titania*. Should the fates allow it, I shall find a way.
 
 
 
