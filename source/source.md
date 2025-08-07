@@ -173,3 +173,41 @@ Praise be! I have returned to Mount Spectra. Mine own halls await, though change
 
 **Entry**
 Time here flows like a raging river. Though mine bones yet move, I feel the burden of age—as if fifty winters have passed. I am but a withered echo of the man who entered the fire. My memories of the Castle fade, as though lost in fog. I fear that more urgent matters now lay claim to my days.
+
+###### Anno 227 A.G
+
+**Entry**
+It is now clear that many years have passed, the castle of titania, has been abandoned for many years. My attempts to discover the fate of the lards of titatina has come to a dead end. I have yet to return to the castle, but i suspect it to be infested by monsters. 
+
+**Entry**
+My research now concludes that the nether bends time and space, but i do not know of refrence of how much time transpired. If the lords of titania got lost in the nether they might never return to this present, or be lost forever as i almost was. come the end of winter i shall venture to the state of titania, and gather one last time the state of the castle, i fear it is now infested by monsters, since many moons have passed without tending and the enchantments of light have surely mostly faded. Darkeness attracks the monsters..i shall prepare with caution.
+
+**Entry**
+It is now the end of winter, and i prepare to travel to the claste of titania, to examine the state of the forsaken castle, i shall make sure erect a stones in remembrance of the missing kin, as i fear they will never return. 
+
+**Entry**
+As i approach by water, i confirm my fears, most of the magic lights have faded, the castle of titania now lays in darkness, monster sure lurk around grounds. I shall approach with caution armed with sword and shield to defend my life from the monsters that may lie within.
+
+**Entry**
+Zombies, wraiths and skeletons roam the grounds, i slayed most of them and turned the magic lights on a few rooms to keep myself safe. the clase is now deteriorated and run by overgrowth, in the storm water leaks, it is clear, nobody has been in here for many years. I suspect the lords of titania have persished, i shall erect stones in their memory and leave this forsaken castle to its destiny. 
+
+**Entry**
+I took me several days to complete retrofit the abandoned room by the stables, this stone walls shall bear the stones remembrance of the missing lords, and shall enchant the room with eternal flams so no monster ever attempt to enter.
+
+The stones read:
+Luis the Frank:
+The Master of Reins
+Johnny the Boy
+The Lord of Squirrels
+The Green Warrior
+
+"If you bone shall still live,
+your castle abandoned in time
+shall fade yet this eternal flame shall not,
+Thy thrones lie cold, yet this flame warm ethernal.
+remembered you shall be in the room accrros time"
+
+Lord Gen of House Spectra, your ethernal kind of the brotherood of Titania.
+
+**Entry**
+I have done all that i can to preserve the memory of those lost in time, i shall now return to keep in the mountanous ice, and live the restof my days in search of new meaning.
