@@ -135,42 +135,41 @@ I am return’d to mine mountain home, where silence reigns and wind howls throu
 
 
 ###### Anno 225 A.G
+**Entry**
+Long have I prepared, through many moons, for the quest that now lieth before me. All signs, all whispers, and the remnants of old lead toward one place—the Nether. Thus have I forged a portal, in the manner spoken of in the Forbidden Texts. The hour is upon me. I march onward into fire.
 
 **Entry**
-I have prepared for many moons to find clues about the fate of the lords of titania, all lead me to the neather dimension. So i have built a portal as described in the forbiden texts, i am ready i shall march onwards.
+Countless moons have passed, or so it feels, for in the Nether—that accursed realm—there is no slumber, no stars, no time. I know not how long I wandered in that infernal domain. The overworld’s laws are broken here. All things decay, and dread walks unbound. Were it not for the enchantments drawn from mine scholarly toil, I should surely have perished. Fortune smiled when I stumbled upon a portal, far-flung but mercifully functional, that cast me from the Nether’s grasp.
 
 **Entry**
-I have spent many moons in hell, the neather allows no sleep, do not now how much time passed while i was lost in the damned place. Anything of the overworld seldom lasts, these lands are of survival and dread. Had not been for my scholarly enchantments i sureley would have perished long ago, with luck i found a portal tha took me far away but out of the hellish realm.
+Alas, I am lost. The portal delivered me unto lands unknown, foreign to any chart or star I’ve known. My maps avail me naught. I must either find shelter here or once more brave the Nether’s maw and retrace my path through fire.
 
 **Entry**
-I am lost, the portal has taken me to a unknown location, i have yet to find my bearings, my maps prove futile, ths land is unknown to me, i have no way of returning to my home, imust shelter on these lands or return thrue the portal.
+Days have dragged their feet through dust and shadow. I prepare again to step into the Nether, for no other path home lies before me. By mine calculations, every pace walked in the Nether measures eightfold in the Overworld. If I be ten-thousand meters astray, then the road back may outlive even mine own years.
 
 **Entry**
-Several days have passed, as i prepare to travel again to the nether, as i see no way of returning home thrugh the overworld. If my calculations are right, every metere i walked in the nether roughly translates to 8 meters in the overworld, i am at least 10,000 meters on any direction. It might take a lifetime to travel back...
+Though trapped and wearied, my quest hath borne fruit—I have found signs. Yes, signs! That the Lords of Titania did indeed pass through the Nether. Relics of their journey remain. Their trail is cold, but not erased.
 
 **Entry**
-In my attempt to research more of the arcane and find a way to discover the whereabouts of the lords of titania, i have become stranded, but one thing is certain, the lords o titania were in the nether, i found remnantes of their exploration.
+Moons have waned and waxed. Still I lack the means to brave the Nether once more. My exploration of these strange lands hath confirmed what I feared—no passage through the overworld can deliver me home. I have trekked by water and by foot, and every road ends in void. I thank providence that I left marks upon the Nether's stone to guide me, lest I fall once more into a lake of fire.
 
 **Entry**
-Several a moon cycle has passed, ive yet to have all the resources to venture back into the neather, in my exploration of this lands i am now certain that the only way  home is through hell. I have walked many distances by water and foot and have proven futile venture. Luckyly the markings i left in the nether shall help me find my way to the original portal and not a pool of lava.
-
-**Entry**
-Today shall be the day a step through the portal, i have prepare for two moon cycles, explored these fringes of land and have come to the conclusion, the only way is the portal. if i shant survive whomever find this was my last entry and leave a copy on these lands if someone ever venture this far the frontier keep of Lord Gen of House Spectra..
+Today shall be the day I return. Two moon-cycles of preparation hast passed. I have scouted, measured, and gathered. The path lies through the portal. Should I perish, let this be my last testament. Let a copy remain here, in the Frontier Keep of Lord Gen of House Spectra, so that any who find this may know I walked beyond the veil.
 
 
 ###### Anno 226 A.G
 
 **Entry**
-I have lost track of time, in the neather there is no day or night only fire. It was wise to prepare for two moon cycles, some of the markings i left have vanished, taking longer but i recognize the hellish landscape. the gold i brought has proven of use, the pig like creatures appeart ignore me.
+I have lost all reckoning of time. In the Nether, there is no sun, no stars—only fire. It was wise to prepare as I did, yet many of mine old markings have faded, swallowed by flame and ash. Progress is slow, but the terrain begins to feel familiar. The gold I bore hath proven most useful, for the boar-headed beasts show me no ire while I wear it.
 
 **Entry**
-I am running thin on my supplies, the potions and enchantments protect me from this hellscape, food is running out but i have found that the mushroom like growths are adible but cause visions that test my sanity. I shall endure and return with my findings.
+My supplies dwindle. Potions and enchantments shield me from the heat, yet food runs short. I have partaken of Nether-mushrooms, which nourish the body but ravage the mind with strange visions. Still, I endure. I must. I will return with what I have learned.
 
 **Entry**
-I have finally found the original path, i know the portal is close, enduring in these hellish realm has taken a toll on my sanity. I have lost track of time, completely. i just hope that time does not pass equally as distance while in this dimension.
+At last, I have found the original path. The portal must be near. Though I be weary and half-mad, I press forward. The toll upon my spirit is great, and I know not what time hath become in my absence. Let the portal open swiftly.
 
 **Entry**
-I have return to my mountain keep, i do not know how many mooncycles have passed, i fear the neather distort time, i shall settle and explore my keep before and analyse my findings. and shall plan to travel to the clastle of titania the next season.
+Praise be! I have returned to Mount Spectra. Mine own halls await, though changed they seem. I know not how many moon-cycles have passed. The Nether distorts more than space—it shatters time. I shall recover here, pore over my findings, and once more seek the Castle of Titania, come next season.
 
 **Entry**
-In these lands time flies faster than expected, it feels as if 50 years had passed, i am but an older man. I have forgoten my travels to the castle of titania, seaons have passed but more pressing matters have taken hold of me.
+Time here flows like a raging river. Though mine bones yet move, I feel the burden of age—as if fifty winters have passed. I am but a withered echo of the man who entered the fire. My memories of the Castle fade, as though lost in fog. I fear that more urgent matters now lay claim to my days.
