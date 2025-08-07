@@ -134,4 +134,43 @@ Grief heavies mine heart. I fear the noble lords—so bold in their questing—h
 I am return’d to mine mountain home, where silence reigns and wind howls through stone. I shall tend to my fields and continue my *studies in the arcane*, holding fast to the faint hope that in my scrolls, or in some forgotten rune, there might be salvation for the *Lords of Titania*. Should the fates allow it, I shall find a way.
 
 
+###### Anno 225 A.G
 
+**Entry**
+I have prepared for many moons to find clues about the fate of the lords of titania, all lead me to the neather dimension. So i have built a portal as described in the forbiden texts, i am ready i shall march onwards.
+
+**Entry**
+I have spent many moons in hell, the neather allows no sleep, do not now how much time passed while i was lost in the damned place. Anything of the overworld seldom lasts, these lands are of survival and dread. Had not been for my scholarly enchantments i sureley would have perished long ago, with luck i found a portal tha took me far away but out of the hellish realm.
+
+**Entry**
+I am lost, the portal has taken me to a unknown location, i have yet to find my bearings, my maps prove futile, ths land is unknown to me, i have no way of returning to my home, imust shelter on these lands or return thrue the portal.
+
+**Entry**
+Several days have passed, as i prepare to travel again to the nether, as i see no way of returning home thrugh the overworld. If my calculations are right, every metere i walked in the nether roughly translates to 8 meters in the overworld, i am at least 10,000 meters on any direction. It might take a lifetime to travel back...
+
+**Entry**
+In my attempt to research more of the arcane and find a way to discover the whereabouts of the lords of titania, i have become stranded, but one thing is certain, the lords o titania were in the nether, i found remnantes of their exploration.
+
+**Entry**
+Several a moon cycle has passed, ive yet to have all the resources to venture back into the neather, in my exploration of this lands i am now certain that the only way  home is through hell. I have walked many distances by water and foot and have proven futile venture. Luckyly the markings i left in the nether shall help me find my way to the original portal and not a pool of lava.
+
+**Entry**
+Today shall be the day a step through the portal, i have prepare for two moon cycles, explored these fringes of land and have come to the conclusion, the only way is the portal. if i shant survive whomever find this was my last entry and leave a copy on these lands if someone ever venture this far the frontier keep of Lord Gen of House Spectra..
+
+
+###### Anno 226 A.G
+
+**Entry**
+I have lost track of time, in the neather there is no day or night only fire. It was wise to prepare for two moon cycles, some of the markings i left have vanished, taking longer but i recognize the hellish landscape. the gold i brought has proven of use, the pig like creatures appeart ignore me.
+
+**Entry**
+I am running thin on my supplies, the potions and enchantments protect me from this hellscape, food is running out but i have found that the mushroom like growths are adible but cause visions that test my sanity. I shall endure and return with my findings.
+
+**Entry**
+I have finally found the original path, i know the portal is close, enduring in these hellish realm has taken a toll on my sanity. I have lost track of time, completely. i just hope that time does not pass equally as distance while in this dimension.
+
+**Entry**
+I have return to my mountain keep, i do not know how many mooncycles have passed, i fear the neather distort time, i shall settle and explore my keep before and analyse my findings. and shall plan to travel to the clastle of titania the next season.
+
+**Entry**
+In these lands time flies faster than expected, it feels as if 50 years had passed, i am but an older man. I have forgoten my travels to the castle of titania, seaons have passed but more pressing matters have taken hold of me.
