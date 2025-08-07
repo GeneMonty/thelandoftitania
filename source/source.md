@@ -111,6 +111,7 @@ Many a year hath pass’d since mine eyes last beheld the Castle of Titania, sin
 
 **Entry**
 Life upon this frozen mount beareth many hardships. The cold bites deep, and provisions scarce sustain. Yet through perseverance, I have raised an edifice not unlike the hydroponic hall once gifted to the castle of Titania. It hath sustained me through many a storm. On occasion, I voyage by water to mine seaside farm, wherefrom I import goods to ensure my survival.
+
 **Entry**
 Oft do I wonder what fate befell the halls of Titania. Dost the castle yet stand? Have the lords return’d in secret? I must make ready a journey to those lands, to bear witness with mine own eyes.
 
@@ -135,6 +136,7 @@ I am return’d to mine mountain home, where silence reigns and wind howls throu
 
 
 ###### Anno 225 A.G
+
 **Entry**
 Long have I prepared, through many moons, for the quest that now lieth before me. All signs, all whispers, and the remnants of old lead toward one place—the Nether. Thus have I forged a portal, in the manner spoken of in the Forbidden Texts. The hour is upon me. I march onward into fire.
 
@@ -177,37 +179,40 @@ Time here flows like a raging river. Though mine bones yet move, I feel the burd
 ###### Anno 227 A.G
 
 **Entry**
-It is now clear that many years have passed, the castle of titania, has been abandoned for many years. My attempts to discover the fate of the lards of titatina has come to a dead end. I have yet to return to the castle, but i suspect it to be infested by monsters. 
+’Tis now certain—long years have waned since last the Castle of Titania knew the touch of hand or the echo of voice. All my searchings, all my travails to uncover the fate of the Lords hath brought me naught but silence. I have yet to return unto the castle, but in mine heart I sense the rot of neglect—its halls, perchance, overrun by creatures of night.
 
 **Entry**
-My research now concludes that the nether bends time and space, but i do not know of refrence of how much time transpired. If the lords of titania got lost in the nether they might never return to this present, or be lost forever as i almost was. come the end of winter i shall venture to the state of titania, and gather one last time the state of the castle, i fear it is now infested by monsters, since many moons have passed without tending and the enchantments of light have surely mostly faded. Darkeness attracks the monsters..i shall prepare with caution.
+My studies now confirm what I had long suspected: the Nether twisteth time and space. Yet no measure have I of how many winters have fled since I first entered that cursed realm. Should the Lords of Titania be lost therein, I fear they shall never return to this present age—trapped in some fold of time, or perished, as I near did. When winter’s breath draweth to its final sigh, I shall journey once more unto Titania’s domain. The light enchantments, long untended, must surely be faded. Where light dieth, darkness beckoneth beasts. I shall prepare with utmost caution.
 
 **Entry**
-It is now the end of winter, and i prepare to travel to the claste of titania, to examine the state of the forsaken castle, i shall make sure erect a stones in remembrance of the missing kin, as i fear they will never return. 
+Winter is waning. My satchel is packed, mine sword sharpened, and I make ready to return unto the Castle of Titania, to bear witness unto what remaineth. Should I find naught but ruin, I shall raise stones in remembrance of my lost kin, for I fear their return shall never be.
 
 **Entry**
-As i approach by water, i confirm my fears, most of the magic lights have faded, the castle of titania now lays in darkness, monster sure lurk around grounds. I shall approach with caution armed with sword and shield to defend my life from the monsters that may lie within.
+Approaching by water, I beheld the truth laid bare—the lights are gone. The ancient enchantments that once held darkness at bay now flicker not. The castle lieth cloaked in shadow, and surely foul things roam its grounds. With sword in hand and shield upon arm, I shall tread cautiously, for death may walk these halls.
 
 **Entry**
-Zombies, wraiths and skeletons roam the grounds, i slayed most of them and turned the magic lights on a few rooms to keep myself safe. the clase is now deteriorated and run by overgrowth, in the storm water leaks, it is clear, nobody has been in here for many years. I suspect the lords of titania have persished, i shall erect stones in their memory and leave this forsaken castle to its destiny. 
+Zombies, wraiths, and the hollow-boned dead do haunt the castle. I slew many, driving them back with steel and flame, and reawakened some lights in the safer chambers. Yet the castle is fallen—its walls cracked, its stones devoured by ivy, and rain seepeth through the broken roof. It is plain to see: none hath dwelt here for many years. I deem now the Lords of Titania are gone unto dust. I shall honor them as is their due, and leave this ruin to its fate.
 
 **Entry**
-I took me several days to complete retrofit the abandoned room by the stables, this stone walls shall bear the stones remembrance of the missing lords, and shall enchant the room with eternal flams so no monster ever attempt to enter.
+It hath taken me many days to restore the stable chamber beside the outer wall. Here have I laid stones—one for each of the Lords. The walls bear the names; the air is sealed with enchantments. Eternal flames now dance upon the hearth, so that no beast nor shadow may cross this threshold.
 
-The stones read:
-Luis the Frank:
-The Master of Reins
-Johnny the Boy
-The Lord of Squirrels
-The Green Warrior
+Upon the stone are inscribed:
 
-"If you bone shall still live,
-your castle abandoned in time
-shall fade yet this eternal flame shall not,
-Thy thrones lie cold, yet this flame warm ethernal.
-remembered you shall be in the room accrros time"
+**Luis the Frank** — Steward of the Grand Hall, Master of Masonry, and Ever-Warden of Titania’s Crown
+**The Master of Reins** — Alchemist Arcane, Whisperer of the Tempest, who dwelleth ‘neath the shadow of the Northern Winds
+**Johnny the Boy** — Hunter of dread renown, rider of the iron-hoofed beast, whose path none dare follow
+**The Lord of Squirrels** — Elusive Trickster, Vanisher in leaf and bough, guardian of the Verdant Ways
+**The Green Warrior** — Amphibian Knight, lone sentinel of unknown fealty, seen by few, named by none
 
-Lord Gen of House Spectra, your ethernal kind of the brotherood of Titania.
+If thy bones yet walk amongst the dust,
+This castle—lost in time—shall fade,
+But this flame shall not.
+Thy thrones lie cold,
+Yet this fire shall burn eternal.
+Ye shall be remembered across time.
+
+—**Lord Gen of House Spectra**, Warden of the Northern Ice,
+ thy Eternal Kindred of the Brotherhood of Titania
 
 **Entry**
-I have done all that i can to preserve the memory of those lost in time, i shall now return to keep in the mountanous ice, and live the restof my days in search of new meaning.
+I have done all that a man may do. Their memory is safe. Their names shall not be lost to time. The fire endureth. I now return to mine icy keep in the northern mountains, to pass what remaineth of my days in quiet, in study; and in search of new meaning for the years I yet draw breath.
