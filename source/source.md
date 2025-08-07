@@ -43,6 +43,8 @@ Having chosen a fertile land to cultivate, I embark on the arduous task of mappi
 **Entry**
 Alas, the lords of Titania vanish from the castle, leaving naught but questions lingering in the air. The reason for their <i>**disappearance**</i> remains an enigma. Have they sailed to distant lands, leaving their dominion unmanned?
 
+<img src="images/map.png" alt="Aerial Map of Titanis Castle">
+
 **Entry**
 The <i>"**Vanishing of the Lords**"</i> marks the year <i>222 A.G.</i>  in the annals of Titania. Evidence suggests the presence of at least two lords dwelling nearby, yet their fates remain unclear.
 
@@ -85,8 +87,6 @@ Contact established, <i>**Lord Semaan**</i> extends an invitation, and our fruit
 **Entry**
 As the eve of a new year dawns, I, <i>**Gen of House Spectra**</i>, claim these lands of Titania as mine own. Yet, much labor remains.
 
-
-
 ###### Anno 223 A.G
 
 **Entry**
@@ -103,3 +103,35 @@ The <i>**Lord of the Squirrels**</i> eludes me, departing once again. His lands 
 
 **Entry**
 The drydock's completion aids the boat builder. Returning to my lands, <i>**I ponder the lords' fate**</i> and potential clues to their abandonment of the castle...
+
+###### Anno 224 A.G
+
+**Entry**
+It has been many years since ive traveled to the castle of titania after the event of the vanishing of the lords. I am but a mere mortal, and had spent most of my days here in my mountanous residence studing the scholarly ways in hopes to discover a way to rescue them from what appears to be a terrible calaminity..
+
+**Entry**
+Life has turned very difficult, living in a frozen mountain has its complications and challanges, i have finally built a similar edifice as the hydriponics i once built for the castle of titania. It has kept me alive for many years, in this harsh enviroment. It takes me a few days worth of water travel to reach my seaside farm importing goods when necesary.
+
+**Entry**
+I seldom wonder of the state of the castle of titania, i must travel sometime soon to check on the affairs and see if there is any evidence if the lords of the castle ever returned.
+
+**Entry**
+As i prepare to travel to the state of titania, i can see what appears fire and smoke on this clear day, that impoment tower can be seen all the way in the distance from the valcony of my mountan castle, i wonder if the lords have returned.
+
+**Entry**
+Im arriving by water to the port of titania, and i see the fire, it appears to be an attack, the remnants of a ship on fire, and to my right a refuge of some sort, i think is the shadowy figure i saw the last time i was here. I must approach with caution.
+
+**Entry**
+The castle from the distance appears to be safe, overgrowth is taking over the lands, the lights that remain still protect the grounds from the monsters of the night, i shall light the up again for my safety.
+
+**Entry**
+It appears someone was here, the castle storage appears to have been ransaced of most of its goods, i dont believe this to be the actions of any of the lords, as i left a messege for them and it appears to still be there unopened.
+
+**Entry**
+It pains me to think that the lords in their great adventure have been lost to the nether or the end, those wretched portals are quite dangerous...i shall return to the castle of titania on the next season. Its time for me to depart this land as mine awaits tending.
+
+**Entry**
+I have now returned to my home in the mountains, and shall continue tending to my lands, in preparation for the worst i shall continue with my scholarly studies, in a final attemp to discover a way to rescue the lords of titania.
+
+
+
